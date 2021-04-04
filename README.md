@@ -1,5 +1,5 @@
 # TricentisVehicleInsuranceApplication
-Java, Cucumber, Maven
+Java, Cucumber, JUnit, Maven
 <br><br><br>
 <b>Prerequisites:</b>
 <ul> 
@@ -10,15 +10,7 @@ Java, Cucumber, Maven
 <br>
 <b>Obs.:</b>
 <br>
-Due to a problem to run feature directly (<i>right-clicking on .feature file, "Run As" > "1 Cucumber Feature"</i>), execute .feature files individually via <i>"Run Configuration"</i> option:
-<br><br>
-Menu: <i>"Run" > "Run Configurations..."</i>.
-<br><br>
-On the left side of screen, you will see the run configurations for each feature:
-<br><br>
-<img src="https://images2.imgbox.com/2f/37/S4sRFUDw_o.png"/>
+If you are unable to run .feature files directly (<i>right-clicking on .feature file, "Run As" > "1 Cucumber Feature"</i>), execute them individually using the files from <i>"testRunners"</i> package.
 <br>
-Select a run configuration and click on <i>"Run"</i> button to start the execution.
-<br><br>
 <h2>Contact</h2>
-Filipe - <a href="mailto:filipe_giffoni@hotmail.com">filipe_giffoni@hotmail.com</a>
+Filipe: <a href="mailto:filipe_giffoni@hotmail.com">filipe_giffoni@hotmail.com</a>
