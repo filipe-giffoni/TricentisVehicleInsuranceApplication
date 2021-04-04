@@ -1,5 +1,5 @@
 # TricentisVehicleInsuranceApplication
-Java, Cucumber, JUnit, Maven
+Java, Selenium (Chrome), Cucumber, JUnit, Maven
 <br><br><br>
 <b>Prerequisites:</b>
 <ul> 
